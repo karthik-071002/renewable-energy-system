@@ -20,7 +20,7 @@ This project captures energy from **wind, sunlight, and heat** and stores it in 
 
 ## 🔧 Installation  
 ### **🔹 Prerequisites**  
-- Java 8+  
+- Java 
 - Maven  
 - jSerialComm Library  
 
